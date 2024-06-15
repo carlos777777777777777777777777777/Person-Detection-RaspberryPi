@@ -25,3 +25,4 @@ Estructura del Proyecto
 	•	data/: Carpeta para almacenar los datos de entrenamiento y validación.
 	•	models/: Carpeta para almacenar los modelos entrenados.
 	•	results/: Carpeta para almacenar los resultados y las salidas del modelo.
+  h
